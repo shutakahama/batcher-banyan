@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#ネットワークアーキテクチャ最終課題 課題B2
-#Batcher-Banyanネットワーク
+#Batcher-Banyan network
 
 import numpy as np
 
